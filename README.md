@@ -1,8 +1,8 @@
 ## LinkedIn Scraper 2022
 
-This is the new update concerning the data scraping from [LinkedIn](https://linkedin.com).
+Titan Haze data scrapper. [LinkedIn](https://www.linkedin.com/company/TitanHaze).
 
-![linked data mining](https://woz-u.com/wp-content/uploads/2021/04/woz-what-is-data-mining-1280x720.jpg)
+![linked data mining](https://media.licdn.com/dms/image/C4D0BAQF-gvMTRAasuQ/company-logo_200_200/0/1675250704202?e=1683158400&v=beta&t=K2Ikc3Gj_RGVVpdkbRwmLRYLqvRcHL7hZIjIDIljD8I)
 
 ## Tools used for this project
 - [Python](https://www.python.org/)
@@ -11,25 +11,16 @@ This is the new update concerning the data scraping from [LinkedIn](https://link
 - [iPython](https://ipython.org/)
 
 To contribute, you know the story,
+-		Atif Riaz
+		https://www.linkedin.com/in/AtifChwdhry
 
-- [Fork](https://github.com/yokwejuste/linkedin-scraper/fork)
-- Clone
-    - ```
-        git clone https://github.com/<your github username>/linkedin-scraper.git
-        ```
-- Make commits and PRs
-    - ```
-        git add .
-        git commit -m "message"
-        git push
-        ```
+-		Repository
+		https://github.com/atif-riaz-ar/scraper
 
 ### System Setup
-
 - Download dependencies
     ```bash
         pip install -r requrements.txt
-
     ```
 - Create a `.env` file with the following variables:
     ```bash
@@ -40,11 +31,3 @@ To contribute, you know the story,
     ```bash
         python main.py
     ```
-
-    The scraper will automatically login and scrape the data.
-
-You will notice a results.csv file in the root directory, open and see the data. Play around with the code from `varibles.py` modify the xpath data in the main file to scrape more and different data.
-
-Add me a start and fork the repository.
-
-This is a project under the [MIT License](https://opensource.org/licenses/MIT).

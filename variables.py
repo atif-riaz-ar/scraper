@@ -8,4 +8,4 @@ my_password = os.environ['LINKEDIN_PASSWORD']
 
 file_name = 'results.csv' # file where the results will be saved
 
-query = 'site:linkedin.com/in/ AND "CEO" AND "United States"'
+query = 'site:linkedin.com/in/ AND "Atif Riaz" AND "United States"'
